@@ -63,7 +63,9 @@ A Tesla-style React app prototype for managing gig-economy orders (DoorDash, Ube
 ## 🚀 Quick Start
 
 ### 📱 Live Demo
-🌟 **[Try the Live Demo](https://in-car-gig-apps.vercel.app)** *(Deploy your own to add this link)*
+🌟 **[Try the Live Demo](https://omega-2023.github.io/In-car-gig-apps-interface/)** 
+
+> **Perfect for your resume!** This live demo showcases a Tesla-style in-car interface for gig workers with voice controls and safety features.
 
 ### 💻 Local Development
 
