@@ -14,7 +14,7 @@ function App() {
   const { activeOrderId } = useAppStore();
 
   return (
-    <Router>
+    <Router basename="/In-car-gig-apps-interface">
       <div className={styles.app}>
         <Header />
         <SafetyBanner />
