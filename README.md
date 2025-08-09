@@ -1,6 +1,6 @@
 # 🚗 In-Car Gig Apps Interface
 
-[![CI/CD Pipeline](https://github.com/yourusername/in-car-gig-apps/workflows/CI/CD%20Pipeline/badge.svg)](https://github.com/yourusername/in-car-gig-apps/actions)
+[![CI/CD Pipeline](https://github.com/Omega-2023/In-car-gig-apps-interface/workflows/CI/CD%20Pipeline/badge.svg)](https://github.com/Omega-2023/In-car-gig-apps-interface/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg)](http://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18+-61DAFB.svg)](https://reactjs.org/)
@@ -69,8 +69,8 @@ A Tesla-style React app prototype for managing gig-economy orders (DoorDash, Ube
 
 ```bash
 # Clone the repository  
-git clone https://github.com/yourusername/in-car-gig-apps.git
-cd in-car-gig-apps
+git clone https://github.com/Omega-2023/In-car-gig-apps-interface.git
+cd In-car-gig-apps-interface
 
 # Install dependencies
 npm install

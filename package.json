@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/in-car-gig-apps.git"
+    "url": "https://github.com/Omega-2023/In-car-gig-apps-interface.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/in-car-gig-apps/issues"
+    "url": "https://github.com/Omega-2023/In-car-gig-apps-interface/issues"
   },
-  "homepage": "https://github.com/yourusername/in-car-gig-apps#readme",
+  "homepage": "https://github.com/Omega-2023/In-car-gig-apps-interface#readme",
   "license": "MIT",
   "scripts": {
     "dev": "vite",
